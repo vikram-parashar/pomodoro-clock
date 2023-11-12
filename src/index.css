@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #12cbb0;
+  color: fefefe;
+}
+span,
+button,
+p {
+  color: #fff;
+}
