@@ -3,6 +3,7 @@
 A simple Pomodoro Timer built with React for effective time management. Customize work and break intervals, play/pause, and reset.
 
 ## Preview
+[Visit site](https://pomorodoclock.netlify.app/)
 #### desktop preview
 ![231113_01h29m36s_screenshot](https://github.com/vikram-parashar/pomodoro-clock/assets/138557075/eb924f53-099a-4819-9762-0b6608186b2f)
 #### mobile preview 
